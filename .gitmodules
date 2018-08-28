@@ -338,3 +338,7 @@
 	path = ext/providers/tfe
 	url = https://github.com/terraform-providers/terraform-provider-tfe
 	branch = stable-website
+[submodule "ext/providers/oci"]
+	path = ext/providers/oci
+	url = https://github.com/hashicorp/terraform-provider-oci
+	branch = stable-website
